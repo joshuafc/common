@@ -32,6 +32,7 @@
 #include <ostream>
 
 #include <common/logger.h>
+#include <cstdint>
 
 #define INVALID_PID -1
 #define INVALID_DESCRIPTOR -1
